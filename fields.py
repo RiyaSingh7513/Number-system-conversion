@@ -74,4 +74,4 @@ def fields(window):
     check_val.append(dec_val)
     
     # Return the list of checkbutton values, the option selected and the entry
-    return check_val, option, num_entry
+    return check_val , option, num_entry
