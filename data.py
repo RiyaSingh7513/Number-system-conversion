@@ -58,5 +58,5 @@ data = {
         "Decimal to Decimal: The decimal number is the same as the original number", 
         "Decimal to Hexadecimal: Decimal number is divided by 16 and the remainder is noted.Then e the quotient is\n"
         "divided  by 16. This  is repeated until the quotient equal to zero and the reverse order pattern is followed\n"
-        "to arrange all the values of the remainder. The obtained number is the required hexadecimal number."]
+        "to arrange all the values of the remainder. The obtained number is the required hexadecimal number ."]
 }
