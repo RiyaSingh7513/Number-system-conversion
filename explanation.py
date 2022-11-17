@@ -18,5 +18,5 @@ def explanation(check_val, option):
         expn_label = Label(window, text=data[option.get()][i])
         expn_label.place(x=100, y=50 + (i * 150))
 
-    # Create mainloop
+    #  Create mainloop
     window.mainloop()
